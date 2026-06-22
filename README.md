@@ -3,7 +3,7 @@
 Click the link below for a live demo of my first portfolio website:
 <br>
 <br>
-https://gugapante.github.io/Final-Web-Portfolio/
+
 </p>
 
 # A Little Bit About This Project
