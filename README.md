@@ -32,9 +32,20 @@ The structure is designed to provide employers and collaborators with an accessi
 - Mobile friendly layouts
 
 # Demonstrations of Features
-## HomePage
+## HomePage and Responsive Navigation
+<p align = "justify">
+The homepage serves as the landing section of the portfolio, providing quick links to my socials and a self portrait to make it more personable. It features responsive navigation, social media links, downloadable CV functionality, and animated interface elements designed to create an engaging first impression while maintaining accessibility across desktop and mobile devices.
+</p>
 
-## Responsive Navigation
+<p align = "center">
+  <img src="gifs/first-page.gif"></img>
+<br>
+<em align = "center"><b>Home page of the website</b></em>
+</p>
+
+<p align = "justify">
+I opted for a traditional navigation bar that has all the links needed to quickly access all the important sections of the website. The animations were kept simple to draw the user as complicated animations would be a waste of time for this project given my knowledge at the time and to not overwhelm the user.
+</p>
 
 ## Project Carousel
 
