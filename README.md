@@ -139,4 +139,39 @@ Through this project I was able to strengthen my understanding of:
 - User-centred design principles
 
 # Future Improvements
+## User Experience
+- Add a dark/light mode toggle with user preference persistence. 
+- Implement smoother page transitions and section animations. 
+- Add keyboard navigation support for improved accessibility.
+- Improve mobile interactions with touch-friendly gestures for the project carousel.
+
+## Accessibility
+- Improve screen reader compatibility through additional ARIA labels.
+- Ensure colour contrast meets WCAG accessibility standards.
+- Provide reduced-motion alternatives for users who prefer fewer animations.
+
+## Projects Section
+- Add more projects with detailed case studies.
+- Include GitHub repository links and live demos for each project.
+- Add project filtering by category (Web Development, Machine Learning, Engineering, etc.).
+- Allow projects to expand into modal windows with additional images and technical details.
+
+## Contact Section
+- Connect the contact form to a backend service so messages are sent directly.
+- Add email notifications for new submissions.
+- Implement spam protection using CAPTCHA or server-side validation.
+- Add form submission analytics.
+
+## Technical Improvements
+- Refactor JavaScript into modules for improved maintainability.
+- Improve performance by lazy-loading images.
+- Optimise asset sizes and loading times.
+- Add error logging and monitoring.
+
+## Advanced Features
+- Build the portfolio using a framework such as React.
+- Convert the site into a Progressive Web App (PWA).
+- Add multilingual support.
+- Integrate a GitHub API widget to display recent repositories and activity.
+- Add a visitor analytics dashboard.
 
